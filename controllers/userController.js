@@ -1,4 +1,3 @@
-const { countReset } = require('console');
 const { User, Thought } = require('../models');
 
 module.exports = {
